@@ -70,8 +70,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA (Exploratory Data Analysis)
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/correlation_visual.png)
-![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/positions_by_state.png)
+![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/correlation_viz.png)
+![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/pos_by_state.png)
 ![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/salary_by_job_title.PNG)
 
 ## Model Building
