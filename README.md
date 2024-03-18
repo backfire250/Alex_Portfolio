@@ -2,11 +2,11 @@
 Data science portfolio to showcase my fun DS projects!
 
 # [Project 1: Data Science Salary Estimator](https://github.com/backfire250/ds_salary_proj)
-**Project Goal**:  Created a tool that estimates data science salaries based on some factors associated with the job: geography, job title, company size, industry, # of competitors etc.
-* Scraped 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on Python, Excel, AWS, and Spark. 
+**Project Goal**:  I created a tool that will estimate salaries for Data Scientists based on some factors associated with the job: industry, # of competitors, geography, job title, company size, etc.
+* Scraped 1,000 job descriptions from Glassdoor using Python and Selenium.
+* Engineered features from the text of each job description to quantify the value that companies put on Python, Excel, AWS, and Spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using Flask
+* Built a client-facing API using Flask.
 
 ![](/images/correlation_viz.png)
 
