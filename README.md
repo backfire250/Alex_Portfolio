@@ -58,7 +58,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Made a new column for company state 
 *	Added a column to indicate if the job was at the company’s headquarters 
 *	Transformed 'founded date' columnn into 'age of company' 
-*	Made columns to show if different skills were listed in the job dsescription:
+*	Made columns to show if different skills were listed in the job description:
     * Python  
     * R  
     * Excel  
@@ -93,4 +93,4 @@ The Random Forest model far outperformed the other approaches on the test and va
 *    **Ridge Regression** : MAE = 19.67
 
 ## Productionization
-In this step, I built a Flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job posting and returns an estimated salary.
+In this step, I built a Flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the resource section above. The API endpoint takes in a request with a list of values from a job posting and returns an estimated salary.
