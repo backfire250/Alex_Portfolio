@@ -8,7 +8,7 @@ Data science portfolio to showcase my fun DS projects!
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using Flask
 
-![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/correlation_viz.png)
+![](/images/correlation_viz.png)
 
 # [Project 2: Data Engineering with Uber](https://github.com/backfire250/uber_pipeline)
 **Project Goal**:  Collect relevant data from thousands of Uber trips and create a dashboard to visualize my findings.
@@ -18,4 +18,4 @@ Data science portfolio to showcase my fun DS projects!
 * Map out data transformations in Lucid Charts.
 * Create a simple dashboard in Looker Studio.
 
-![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/dashboard_screenshot.png)
+![](/images/dashboard_screenshot.png)
