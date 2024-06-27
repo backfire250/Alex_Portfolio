@@ -26,4 +26,4 @@ Data science portfolio to showcase my fun DS projects!
 * Use multiple machine learning techniques to predict outcomes based on provided data
 * Build regularized and non-linear models in addition to linear models, then evaluate using k-fold cross validation
 
-![](/images/fires_correlation.png)
+![](/images/fires correlation.png)
