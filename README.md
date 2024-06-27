@@ -19,3 +19,11 @@ Data science portfolio to showcase my fun DS projects!
 * Create a simple dashboard in Looker Studio.
 
 ![](/images/dashboard_screenshot.png)
+
+# [Project 3: Optimizing Models For Predicting Forest Fires](https://github.com/backfire250/ds_forest_fires)
+**Project Goal**:  Predict the extent of fire damage to a forest using data from the UCI Machine Learning Repository.
+* Aim to determine how specific characteristics in our dataset can be used to accurately predict future forest fire damage
+* Use multiple machine learning techniques to predict outcomes based on provided data
+* Build regularized and non-linear models in addition to linear models, then evaluate using k-fold cross validation
+
+![](/images/fires_correlation.png)
