@@ -1,4 +1,4 @@
-# Ernie_Portfolio
+# Alex_Portfolio
 Data science portfolio to showcase my fun DS projects!
 
 # [Project 1: Data Science Salary Estimator](https://github.com/backfire250/ds_salary_proj)
