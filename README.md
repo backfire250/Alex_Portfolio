@@ -27,3 +27,11 @@ Data science portfolio to showcase my fun DS projects!
 * Build regularized and non-linear models in addition to linear models, then evaluate using k-fold cross validation
 
 ![](/images/fires_correlation.png)
+
+# [Project 4: Predicting listing gains in the Indian IPO market with Tensorflow](https://github.com/backfire250/DS_IPO_Proj)
+**Project Goal**:  Build a deep learning classification model to determine if there will be listing gains for the IPO (% increase in the share price of a company from its IPO issue price on the day of listing).
+* Aim to determine how specific characteristics in our dataset can be used to accurately predict whether or not an IPO will list a profit
+* Use multiple machine learning techniques to predict outcomes based on provided data
+* Build a sequential API using tensorflow as part of our predictive models
+
+![](/images/ipo_ss_main.png)
